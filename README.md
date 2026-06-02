@@ -232,25 +232,3 @@ Aykırı Değer:       Düzeltildi (yaş, satın alma vb.)
 ✅ **Model Açıklanabilirliği:** Feature importance, SHAP değerleri  
 ✅ **Python:** Pandas, Scikit-learn, Matplotlib/Seaborn, SHAP, MLxtend  
 
----
-
-## 🔗 GitHub Deposu
-
-**Ana Depo:** [Customer-Segmentation-Churn-Prediction-Behavioral-Analysis](https://github.com/GulDrdl/Customer-Segmentation-Churn-Prediction-Behavioral-Analysis)
-
----
-
-## 📝 Lisans
-
-Bu proje eğitim ve portföy amaçları için açık kaynaklıdır.
-
----
-
-## ✉️ İletişim
-
-Sorular ya da öneriler için GitHub Issues'u kullanabilirsiniz.
-
----
-
-**Son Güncelleme:** Haziran 2026  
-**Durum:** ✅ Tamamlandı & GitHub'a Yüklendi
